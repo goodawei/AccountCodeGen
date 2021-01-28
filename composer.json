@@ -1,0 +1,17 @@
+{
+    "name": "goods/codegen",
+    "description": "codegen",
+    "type": "library",
+    "authors": [
+        {
+            "name": "lihongwei",
+            "email": "bjletaoba@sina.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Account\\Rpc\\": "src/Account/Rpc"
+        }
+    },
+    "require": {}
+}
