@@ -2,6 +2,7 @@
     "name": "nucarf/account-codegen",
     "description": "codegen",
     "type": "library",
+    "version": "0.1.1",
     "authors": [
         {
             "name": "lihongwei",
