@@ -1,5 +1,5 @@
 {
-    "name": "accountService/codegen",
+    "name": "account/codegen",
     "description": "codegen",
     "type": "library",
     "authors": [
