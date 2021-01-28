@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Nucarf\\PhpCodeGen\\Account\\Rpc\\": "src/Account/Rpc"
+            "Account\\Rpc\\": "src/Account/Rpc"
         }
     },
     "require": {}
