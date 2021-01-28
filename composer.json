@@ -1,5 +1,5 @@
 {
-    "name": "goods/codegen",
+    "name": "accountService/codegen",
     "description": "codegen",
     "type": "library",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Account\\Rpc\\": "src/Account/Rpc"
+            "Nucarf\\PhpCodeGen\\Account\\Rpc\\": "src/Account/Rpc"
         }
     },
     "require": {}
