@@ -1,5 +1,5 @@
 {
-    "name": "account/codegen",
+    "name": "Nucarf/Account/Codegen",
     "description": "codegen",
     "type": "library",
     "authors": [
